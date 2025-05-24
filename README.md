@@ -114,17 +114,17 @@ StudIQ is an intelligent educational assistant platform designed to automate and
 
 | Layer              | Tools / Frameworks                    |
 | ------------------ | ------------------------------------- |
-| 🖼️ Frontend       | React, TailwindCSS, Axios             |
-| ⚙️ Backend         | Python 3.9, FastAPI, SQLAlchemy       |
-| 🤖 AI Integration  | OpenAI GPT API / Local LLM (optional) |
-| 🔐 Auth & Security | OAuth 2.0, JWT, bcrypt                |
-| 🗃️ Database       | PostgreSQL                            |
-| 📡 Messaging Queue | Kafka / RabbitMQ                      |
-| 🗂️ File Storage   | AWS S3 / Firebase Storage             |
-| 📈 Monitoring      | Prometheus + Grafana / Sentry         |
-| 🔔 Notifications   | Firebase Cloud Messaging / Email API  |
-| 🔄 CI/CD           | GitHub Actions / GitLab CI            |
-| 🚀 Deployment      | Docker, Kubernetes, NGINX             |
+|  Frontend       | React, TailwindCSS, Axios             |
+|  Backend         | Python 3.9, FastAPI, SQLAlchemy       |
+|  AI Integration  | OpenAI GPT API / Local LLM (optional) |
+|  Auth & Security | OAuth 2.0, JWT, bcrypt                |
+|  Database       | PostgreSQL                            |
+|  Messaging Queue | Kafka / RabbitMQ                      |
+|  File Storage   | AWS S3 / Firebase Storage             |
+|  Monitoring      | Prometheus + Grafana / Sentry         |
+|  Notifications   | Firebase Cloud Messaging / Email API  |
+|  CI/CD           | GitHub Actions / GitLab CI            |
+|  Deployment      | Docker, Kubernetes, NGINX             |
 
 ---
 
@@ -134,15 +134,15 @@ StudIQ is an intelligent educational assistant platform designed to automate and
 
 | Component                     | Description                                   |
 | ----------------------------- | --------------------------------------------- |
-| 🖼️ Web App (React)           | Student UI for chat, study dashboard, uploads |
-| 🚪 API Gateway                | Authentication, routing, throttling           |
-| 🤖 AI Engine Service          | Connects to OpenAI API or local LLM           |
-| 📤 Document Upload Service    | Handles file validation and parsing           |
-| 📊 Study Progress Service     | Tracks sessions, topics, and user metrics     |
-| 🔔 Notification Service       | Sends reminders, alerts, and updates          |
-| 🛠️ Admin Panel (React)       | Moderation, reporting, and system management  |
-| 👤 User Profile Service       | Stores preferences, settings, and history     |
-| 🗃️ Database (PostgreSQL)     | Persistent data storage                       |
-| 📡 Event Bus (Kafka/RabbitMQ) | Handles asynchronous processing               |
+|  Web App (React)           | Student UI for chat, study dashboard, uploads |
+|  API Gateway                | Authentication, routing, throttling           |
+|  AI Engine Service          | Connects to OpenAI API or local LLM           |
+|  Document Upload Service    | Handles file validation and parsing           |
+|  Study Progress Service     | Tracks sessions, topics, and user metrics     |
+|  Notification Service       | Sends reminders, alerts, and updates          |
+|  Admin Panel (React)       | Moderation, reporting, and system management  |
+|  User Profile Service       | Stores preferences, settings, and history     |
+|  Database (PostgreSQL)     | Persistent data storage                       |
+|  Event Bus (Kafka/RabbitMQ) | Handles asynchronous processing               |
 
 ---
